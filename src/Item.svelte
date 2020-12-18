@@ -23,18 +23,16 @@
     margin-left: 0px !important;
     display: inline;
     border-radius: 0px;
+    border: none;
+    margin: 0px;
     width: 100%;
     height: 100%;
     background: transparent;
     text-align: left;
     padding: 8px; }
-    li button [menu-label], li button [menu-icon] {
-      line-height: 24px; }
     li button [menu-label] {
+      line-height: 24px; 
       padding-top: 1px; }
-    li button [menu-icon] {
-      width: 32px;
-      text-align: left; }
 
 
 

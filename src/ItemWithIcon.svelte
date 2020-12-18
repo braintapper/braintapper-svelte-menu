@@ -24,7 +24,8 @@
   li[menu-item] button {
     margin-left: 0px !important;
     display: inline;
-
+    border: none;
+    margin: 0px;
     border-radius: 0px;
     width: 100%;
     height: 100%;
@@ -42,6 +43,7 @@
       width: 32px;
       text-align: left; }
 
+    /* TODO: delete [indent]? */
     li[menu-item] button[indent] {
       border-radius: 4px;
       width: auto;
