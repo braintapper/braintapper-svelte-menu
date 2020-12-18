@@ -33,7 +33,9 @@
     li button [menu-label] {
       line-height: 24px; 
       padding-top: 1px; }
-
+      
+    li[menu-item] button:hover {
+      background: var(--lightest-gray); }
 
 
 
