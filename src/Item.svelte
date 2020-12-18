@@ -20,6 +20,7 @@
 
 <style>
   li button {
+    margin-left: 0px !important;
     display: inline;
     border-radius: 0px;
     width: 100%;

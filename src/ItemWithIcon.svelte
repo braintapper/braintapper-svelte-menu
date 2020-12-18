@@ -22,7 +22,9 @@
 
 
   li[menu-item] button {
+    margin-left: 0px !important;
     display: inline;
+
     border-radius: 0px;
     width: 100%;
     height: 100%;
