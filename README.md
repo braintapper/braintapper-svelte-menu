@@ -1,29 +1,6 @@
-# braintapper-svelte-componentname
+# braintapper-svelte-menu
 
-Brief description here
-
-
-# Usage
-
-## Component Import
-
-Import the components you need in your <script> tag:
-
-```
-  import Indent from "braintapper-svelte-componentname";
-```
-
-## Example Markup
-
-```
-  <componentname/>
-```
-
-## Prop Values
-
-### prop
-
-### prop
+Under development. No docs yet.
 
 
 ---
