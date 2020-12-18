@@ -13,6 +13,8 @@
 <style>
   ul[role="menu"] {
     width: 100%;
-    list-style-type: none;;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
   }
 </style>
