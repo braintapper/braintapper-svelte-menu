@@ -18,7 +18,7 @@
 </li>
 
 
-<style global lang="sass">
+<style>
 
 
   li[menu-item] button {
