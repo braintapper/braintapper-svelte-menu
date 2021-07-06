@@ -43,31 +43,16 @@
       width: 32px;
       text-align: left; }
 
-    /* TODO: delete [indent]? */
-    li[menu-item] button[indent] {
-      border-radius: 4px;
-      width: auto;
-      font-weight: bold; }
-
-      li[menu-item] button[indent]:first-of-type {
-        margin-left: 2px; }
 
     li[menu-item] button:hover {
       background: var(--lightest-gray); }
 
       /* global? */
-      li[menu-item] button:hover svg path {
-        fill: var(--blue) !important; }
-    /* global? */
-    li[menu-item] button svg path {
-      fill: var(--black) !important; }
+    
 
     li[menu-item] button[disabled] {
       color: var(--light-gray); }
 
-      /* global? */
-      li[menu-item] button[disabled] svg path {
-        fill: var(--light-gray) !important; }
 
 
 </style>
