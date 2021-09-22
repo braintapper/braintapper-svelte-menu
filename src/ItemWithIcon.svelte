@@ -45,7 +45,7 @@
       text-align: left; }
 
 
-    li[menu-item] button:hover, li[menu-item] button:active {
+    li[menu-item] button:hover, li[menu-item] button:focus {
       background: var(--lightest-gray); }
 
       /* global? */
