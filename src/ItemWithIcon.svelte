@@ -1,13 +1,14 @@
 <script>
 
   export let disabled = false;
+  export let tabindex = undefined;
 
   import { FlexRow, FlexRowCell } from "braintapper-svelte-flex"
 
 </script>
 
 <li menu-item>
-  <button type="button" on:click {disabled}>
+  <button type="button" on:click {disabled} {tabindex}>
     <FlexRow style="line-height: 24px">
       <FlexRowCell flex="initial">
         <div menu-icon><slot name="icon"/></div>
